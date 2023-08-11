@@ -8,4 +8,4 @@
 
 🌐 I'm open to collaborations and idea exchanges. Whether it's projects, partnerships, or simply discussing tech, feel free to reach out!
 
-📫 You can find and connect with me on [LinkedIn]([link_to_your_LinkedIn_profile](https://www.linkedin.com/in/mihnea-aniculesei-a57b0a208/?trk=public-profile-join-page)) or [Twitter](link_to_your_Twitter_profile). Let's connect and share our passion for technology!
+📫 You can find and connect with me on [LinkedIn](link_to_your_LinkedIn_profile](https://www.linkedin.com/in/mihnea-aniculesei-a57b0a208/?trk=public-profile-join-page) or [Twitter](link_to_your_Twitter_profile). Let's connect and share our passion for technology!

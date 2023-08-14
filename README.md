@@ -1,11 +1,62 @@
-👋 Hi there! I'm Mihnea A, a 20-year-old student with a passion for technology. I'm on a continuous journey of learning and exploration, and I've honed my skills in a variety of programming languages.
+# Mihnea Aniculesei - Web Developer
 
-📚 My expertise includes crafting applications using Java with Spring Boot and creating interactive interfaces using JavaScript and React.js. I'm experienced with relational databases like MySQL and have dabbled in the world of NoSQL technologies.
+![Profile Picture](URL_TO_YOUR_PROFILE_PICTURE)
 
-💡 I'm always seeking new challenges to elevate my skills and devise innovative solutions. Transforming ideas into functional applications is my forte, and I'm constantly learning through the development process.
+## About Me
 
-🚀 Currently, I'm diversifying my knowledge and working on personal and academic projects. With every line of code, I'm driven by continuous improvement and making a meaningful impact in the tech space.
+I am a student with a strong passion for web application development, driven by a curiosity for technology and innovation. I possess a dedicated work ethic and a persistent mindset, always on the lookout for new learning opportunities and ways to improve.
 
-🌐 I'm open to collaborations and idea exchanges. Whether it's projects, partnerships, or simply discussing tech, feel free to reach out!
+- Gmail: asmihnea5@gmail.com
+- LinkedIn: [Mihnea Aniculesei](LINKEDIN_PROFILE_URL)
+- GitHub: [AMihneaa](GITHUB_PROFILE_URL)
 
-📫 You can find and connect with me on [LinkedIn](https://www.linkedin.com/in/mihnea-aniculesei-a57b0a208/?trk=public-profile-join-page). Let's connect and share our passion for technology!
+## Projects
+
+### [Alearga pentru viata](PROJECT_URL)
+
+- Technologies: JavaScript, React.JS, Component-Style, Material-UI, Bootstrap
+- Testing: Jest, React Testing Library
+- Databases: MySQL, MongoDB, H2
+- Backend: Java, Spring Boot, REST API, Spring Security, Spring Data JPA, Hibernate
+
+### [Donare-Sange](PROJECT_URL)
+
+- Technologies: JavaScript, React.JS
+- Source Code: [GitHub Repository](GITHUB_REPO_URL)
+
+More projects and details can be found on my [GitHub Profile](GITHUB_PROFILE_URL).
+
+## Education
+
+- **Bachelor's Degree (ET & TI)**
+  Polytechnic University of Bucharest
+  - Duration: 2022 – Present
+
+- **High School**
+  'Ion Mihalache' Theoretical High School
+  - Duration: 2018 – 2022
+
+## Volunteer Experience
+
+### IT Department – Liga Studentilor Electronisti
+
+- Assistant Coordinator
+- Duration: 2022 – Present
+- I coordinated teams of volunteers, who created various websites for our association. During this time, I taught them the basics of web programming techniques (JS, CSS, PHP, HTML).
+- Source Code: [GitHub Repository](GITHUB_REPO_URL)
+
+## Contacts
+
+- Email: asmihnea5@gmail.com
+
+## Interests
+
+- Traveling
+- Psychology
+- Hobbies
+
+### GitHub Repositories
+
+- [APV](GITHUB_REPO_APV)
+- [Donare-Sange](GITHUB_REPO_Donare-Sange)
+- [Donare-Editia1](GITHUB_REPO_Donare-Editia1)

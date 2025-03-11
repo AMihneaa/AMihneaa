@@ -9,4 +9,5 @@ always seeking opportunities to grow, innovate, and refine my abilities
 
 
 - Gmail: asmihnea5@gmail.com
-- LinkedIn: [Mihnea Aniculesei](LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihnea%20Aniculesei-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mihnea-aniculesei)
+

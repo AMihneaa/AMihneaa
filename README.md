@@ -28,4 +28,4 @@ I'm a tech enthusiast with a strong focus on software development. I enjoy tackl
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mihneaaniculesei)](https://linkedin.com/in/mihneaaniculesei)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mihnea-aniculesei)](https://linkedin.com/in/mihneaaniculesei)

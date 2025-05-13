@@ -19,8 +19,6 @@ I'm a tech enthusiast with a strong focus on software development. I enjoy tackl
 - 🗂️ **April 2025** [ARM-Subsystem](https://github.com/AMihneaa/ARM-Subsystem) - An ARM subsystem project. 
 - 🗂️ **April 2025** [TicketPlatform-Client](https://github.com/AMihneaa/TicketPlatform-Client) - A client for a ticket management system.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMihneaa&layout=compact&theme=dark&exclude_repo=website,CV,bunici-digitali&langs_count=8&hide_title=false&hide_progress=false)
-
 ## GitHub Stats
 
 🌟 Public Repositories: 19  

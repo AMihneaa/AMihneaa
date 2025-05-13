@@ -8,15 +8,16 @@ I'm a tech enthusiast with a strong focus on software development. I enjoy tackl
 
 ## Skills & Technologies
 
-java,py,react,spring,docker
+[![My Skills](https://skillicons.dev/icons?i=java,py,react,docker&perline=8)](https://skillicons.dev)
 
-## Top Projects
+## Last PRs
 
-- [CallApp](https://github.com/AMihneaa/CallApp) - A communication application built with Java. 
-- [Agent](https://github.com/AMihneaa/Agent) - An intelligent agent framework developed in Python. 
-- [ARM-Subsystem](https://github.com/AMihneaa/ARM-Subsystem) - An ARM subsystem project. 
-- [TicketPlatform-Client](https://github.com/AMihneaa/TicketPlatform-Client) - A client for a ticket management system.
+- 🗂️ **May 2025** [CallApp](https://github.com/AMihneaa/CallApp) - A communication application built with Java. 
+- 🗂️ **May 2025** [Agent](https://github.com/AMihneaa/Agent) - An intelligent agent framework developed in Python. 
+- 🗂️ **May 2025** [ARM-Subsystem](https://github.com/AMihneaa/ARM-Subsystem) - An ARM subsystem project. 
+- 🗂️ **May 2025** [TicketPlatform-Client](https://github.com/AMihneaa/TicketPlatform-Client) - A client for a ticket management system.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMihneaa&layout=compact&theme=dark&exclude_repo=website,CV,bunici-digitali&langs_count=8&hide_title=false&hide_progress=false)
 
 ## GitHub Stats
 

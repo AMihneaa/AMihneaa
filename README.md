@@ -23,12 +23,10 @@ I'm a tech enthusiast with a strong focus on software development. I enjoy tackl
 
 ## GitHub Stats
 
-🌟 Public Repositories: 33  
+🌟 Public Repositories: 19  
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMihneaa&show_icons=false&hide_title=true&count_private=true&rank_icon=github&theme=dark&include_all_commits=true)
 
-
-## Connect with Me
 
 ### 📫 Connect with me
 

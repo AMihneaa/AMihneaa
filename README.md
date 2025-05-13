@@ -10,7 +10,7 @@ I'm a tech enthusiast with a strong focus on software development. I enjoy tackl
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,react,docker&perline=8)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMihneaa&layout=compact&theme=dark&hide=html,css,scss&exclude_repo=URX-WebClient,URX,Image-Enhancement,Tema1,lsebucuresti.org,BalulBobocilorETTI,APV,Donare-Editia1,Monsters-Collection,teststststststststststststs,Donare-Sange,Balul-Bobocilor,Donare-vechi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMihneaa&layout=compact&theme=dark&hide=html,css,scss&exclude_repo=URX-WebClient,URX,Image-Enhancement,Tema1,lsebucuresti.org,BalulBobocilorETTI,APV,Donare-Editia1,Monsters-Collection,teststststststststststststs,Donare-Sange,Balul-Bobocilor,Donare-vechi&size_weight=0.5&count_weight=0.5)
 
 ## Last Projects
 

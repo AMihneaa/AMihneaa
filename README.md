@@ -10,6 +10,8 @@ I'm a tech enthusiast with a strong focus on software development. I enjoy tackl
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,react,docker&perline=8)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMihneaa&layout=compact&theme=dark&hide=html,css,scss)
+
 ## Last PRs
 
 - 🗂️ **May 2025** [CallApp](https://github.com/AMihneaa/CallApp) - A communication application built with Java. 

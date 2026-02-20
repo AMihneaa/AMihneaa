@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi! 
 
 I'm Mihnea — a student developer focused on building practical software and AI-driven systems. I enjoy working on projects that combine backend engineering, data workflows, and AI assistants.
 
@@ -28,8 +28,7 @@ I'm Mihnea — a student developer focused on building practical software and AI
 - 🧠 **sEMG Gesture Recognition System (Bachelor Thesis)** — Python / NumPy / ML *(private)*  
   🔗 https://github.com/AMihneaa
 
-- 🖼️ **Image Denoising CNN** — Python / TensorFlow *(private)*  
-  🔗 https://github.com/AMihneaa
+
 
 ---
 

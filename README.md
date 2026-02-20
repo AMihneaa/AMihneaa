@@ -1,31 +1,48 @@
 ## Hi there! 👋
 
-I'm Mihnea, a passionate developer dedicated to continuous learning and exploring innovative solutions in technology. Welcome to my GitHub profile!
+I'm Mihnea — a student developer focused on building practical software and AI-driven systems. I enjoy working on projects that combine backend engineering, data workflows, and AI assistants.
 
 ## About Me
 
-I'm a tech enthusiast with a strong focus on software development. I enjoy tackling complex problems and developing efficient solutions. Currently, I'm actively working on various projects and expanding my skill set in programming languages and technologies.
+- Interested in **AI agents**, **RAG systems**, and **backend development**
+- I like building things that are **modular**, **reproducible**, and handle **edge cases** well
+- Currently working with **Python**, **Java**, **FastAPI**, **Spring Boot**, **React**, and **Redis**
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,react,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,react,fastapi,spring,redis,mongodb,mysql,linux,git,docker&perline=8)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMihneaa&layout=compact&theme=dark&hide=html,css,scss,makefile,mustache,powershell,assembly,assembly,jupyter%20notebook,shell,javascript&exclude_repo=URX-WebClient,URX,Image-Enhancement,Tema1,lsebucuresti.org,BalulBobocilorETTI,APV,Donare-Editia1,Monsters-Collection,teststststststststststststs,Donare-Sange,Balul-Bobocilor,Donare-vechi&size_weight=0.10&count_weight=0.1)
+---
 
-## Last Projects
+## Featured Projects
 
-- 🗂️ **May 2025** [Smart Transport Booking API](https://github.com/AMihneaa/Smart-Transport-API) - A communication application built with Java. 
-- 🗂️ **May 2025** [Agent](https://github.com/AMihneaa/Agent) - An intelligent agent framework developed in Python. 
-- 🗂️ **April 2025** [ARM-Subsystem](https://github.com/AMihneaa/ARM-Subsystem) - An ARM subsystem project. 
-- 🗂️ **April 2025** [TicketPlatform-Client](https://github.com/AMihneaa/TicketPlatform-Client) - A client for a ticket management system.
+- 🤖 **Agent Crawling & RAG System** — Python / Redis / Playwright  
+  🔗 https://github.com/AMihneaa/Agent
 
-## GitHub Stats
+- 💬 **Smart Transport AI Assistant** — Python / FastAPI / LangChain / RAG  
+  🔗 https://github.com/AMihneaa/ChatBot-Assistant
 
-🌟 Public Repositories: 19  
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMihneaa&show_icons=false&hide_title=true&count_private=true&rank_icon=github&theme=dark&include_all_commits=true)
+- 🧾 **Smart Transport Booking API** — Java / Spring Boot / MongoDB  
+  🔗 https://github.com/AMIHNEAA/Smart-Transport-API
 
+- 🧠 **sEMG Gesture Recognition System (Bachelor Thesis)** — Python / NumPy / ML *(private)*  
+  🔗 https://github.com/AMihneaa
 
-### 📫 Connect with me
+- 🖼️ **Image Denoising CNN** — Python / TensorFlow *(private)*  
+  🔗 https://github.com/AMihneaa
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mihnea-aniculesei/)
+---
+
+## GitHub Activity
+
+<!-- Option A (often works well): Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=AMihneaa&theme=dark&hide_border=true)
+
+<!-- Option B (alternative if you prefer): Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMihneaa&theme=github-compact&hide_border=true)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihnea%20Aniculesei-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihnea-aniculesei/)

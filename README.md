@@ -23,7 +23,7 @@ I enjoy working on projects that combine backend engineering, data workflows, an
 
 - Interested in **AI agents**, **RAG systems**, and **backend development**
 - I like building systems that are **modular**, **reproducible**, and robust in handling **edge cases**
-- Currently working with **Python**, **Java**, **FastAPI**, **Spring Boot**, **React**, and **Redis**
+- Currently working with **Python**, **FastAPI**, **gRPC**, **React**, and **AI-powered backend systems**
 
 ---
 

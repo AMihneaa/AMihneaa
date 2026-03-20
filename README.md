@@ -77,7 +77,7 @@ A backend API for a smart transport platform, focused on clean service structure
 **Python · NumPy · Machine Learning**  
 A private research project focused on signal processing, prediction pipelines, and integration with larger intelligent systems.
 
-🔗 [GitHub Profile](https://github.com/AMihneaa)
+🔗 [View Repository - Private ](https://github.com/AMihneaa)
 
 ---
 
